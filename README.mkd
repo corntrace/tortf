@@ -4,7 +4,7 @@ To convert text to rtf format and paste to the system clipboard
 
 Usage
 -----
-Select the target codes, then run :Tortf. That's it.
+Select the target codes, then run `:Tortf`. That's it.
 
 Limitation
 ----------
@@ -13,4 +13,5 @@ It's only tested in Mac, with the help of `textutil` and `pbcopy` commands.
 Author
 ------
 Kevin Fu (corntrace#gmail.com)
+
 Any issue or pull request is welcome :)
